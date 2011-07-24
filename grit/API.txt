@@ -1,5 +1,7 @@
 == TODO ==
 
+== Added text ==
+
 * Add remote branch references (Grit::Remote)
 * Add status - what is modified, staged
 
